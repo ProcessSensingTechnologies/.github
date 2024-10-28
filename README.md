@@ -1,9 +1,7 @@
 # Welcome to the Process Sensing Technologies (PST) GitHub Organisation!
 
-## About Us
-PST offers a wide range of gas, oxygen and level sensors as well as measurement instruments including probes, transmitters and analyzers for humidity, moisture, oxygen and trace impurities. 
+#### PST offers a wide range of gas, oxygen and level sensors as well as measurement instruments including probes, transmitters and analyzers for humidity, moisture, oxygen and trace impurities. 
 
-## Github
 Here, you'll find a collection of open-source projects, code examples, and documentation related to our products and services. We invite you to explore our repositories, contribute to our projects, and engage with our community.
 
 ### Code of Conduct:
